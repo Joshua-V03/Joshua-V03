@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Joshua Abhishek Vemula</h1>
-<h3 align="center">Software Engineer | Python & Backend Developer</h3>
+<h3 align="center">Software Engineer | Python Developer | IEEE Published Co-Author</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/joshuavemula">
@@ -14,8 +14,8 @@
 
 ### 🚀 About Me
 
-- 🎓 Computer Engineering (Software Engineering) graduate, JAIN University, 2025
-- 🏆 Best Paper Award — **IEEE ICWITE 2025**, and co-author of an [IEEE Xplore publication](https://ieeexplore.ieee.org/document/11307121) (Doc ID: 11307121)
+- 🎓 Computer Engineering (Software Engineering) graduate - JAIN University (2025)
+- 🏆 Best Paper Award Recipient — **IEEE ICWITE 2025**, and co-author of an <a href="https://ieeexplore.ieee.org/document/11307121" target="_blank">IEEE  Xplore publication</a> (Doc ID: 11307121)
 - 🧠 Built a real-time computer-vision analytics pipeline (**Perimeter Pulse**) and an automated security-reconnaissance tool
 - 🔐 Background in Python, backend/REST APIs, and applied security tooling (Nmap, Metasploit, Burp Suite)
 - 🌱 Currently expanding into **Go** and **React** to round out into full-stack development
@@ -29,7 +29,6 @@
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" />
@@ -38,8 +37,14 @@
 **Backend & Frontend**
 <p>
   <img src="https://img.shields.io/badge/REST%20APIs-005571?style=flat-square" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
+</p>
+
+🌱 Currently Learning (early stage)
+
+<p>
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white&label=learning" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black&label=learning" />
 </p>
 
 **Machine Learning & AI**
@@ -47,6 +52,14 @@
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
   <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
 </p>
+
+<!--**Security**
+<p>
+  <img src="https://img.shields.io/badge/Nmap-1F4E79?style=flat-square" />
+  <img src="https://img.shields.io/badge/Metasploit-2596CD?style=flat-square" />
+  <img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=flat-square" />
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white" />
+</p>-->
 
 **Cloud & Tools**
 <p>
@@ -70,7 +83,6 @@ Real-time workplace analytics system processing RTSP CCTV streams for emotion an
 
 `Python` `TensorFlow` `BlazePose` `RTSP` `AWS S3` `NumPy`
 
-
 #### 🔎 Automated Reconnaissance & Vulnerability Assessment Tool
 Automated information-gathering tool combining web scraping and network scanning for security assessments.
 - Integrated Nmap (with NSE scripts), Metasploit auxiliary modules, Hydra, John the Ripper, and Crunch
@@ -78,6 +90,27 @@ Automated information-gathering tool combining web scraping and network scanning
 
 `Linux` `Nmap` `Metasploit` `Hydra` `John the Ripper`
 
+---
+
+<!-- ### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Joshua-V03&show_icons=true&theme=radical&count_private=true" alt="Joshua's GitHub Stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joshua-V03&layout=compact&theme=radical" alt="Top Languages" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Joshua-V03&theme=radical" alt="GitHub Streak" />
+</p>
+
+---
+-->
+### 📚 Publications
+
+Perimeter Pulse: Context-Aware Stress Monitoring Systems Using Surveillance Cameras
+IEEE Xplore, Doc ID: 11307121 
+🏆 Best Paper Award at IEEE ICWITE 2025
+Read on IEEE Xplore
 
 ---
 
@@ -86,6 +119,7 @@ Automated information-gathering tool combining web scraping and network scanning
 - Docker Foundations Professional Certificate — Docker (2026)
 - AI Fluency: Framework and Foundations — Anthropic (2026)
 - Git Essential Training - LinkedIn Learning (2026)
+- AWS Cloud Practitioner Essentials — *in progress*
 - Microsoft Certified: Security, Compliance, and Identity Fundamentals (2024)
 - Cloud Security on AWS — Coursera (2024)
 
@@ -95,5 +129,6 @@ Automated information-gathering tool combining web scraping and network scanning
 
 <p align="center">
   <a href="https://www.linkedin.com/in/joshuavemula">LinkedIn</a> •
-  <a href="mailto:joshuaabhishekv@gmail.com">Email</a> 
+  <a href="mailto:joshuaabhishekv@gmail.com">Email</a>
+  <!-- <a href=https://ieeexplore.ieee.org/document/11307121>IEEE Xplore Publication</a> -->
 </p>
