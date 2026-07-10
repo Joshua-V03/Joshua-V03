@@ -34,9 +34,10 @@
   <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" />
 </p>
 
-**Backend & Frontend**
+**Backend**
 <p>
   <img src="https://img.shields.io/badge/REST%20APIs-005571?style=flat-square" />
+  <img src="https://img.shields.io/badge/OOP-5C2D91?style=flat-square" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
 </p>
 
@@ -71,7 +72,16 @@
 
 ---
 
-### 🔭 Projects
+### 🔭 Featured Projects
+
+#### 📦 On GitHub
+
+**[streamcore](https://github.com/Joshua-V03/streamcore---Coding-Assignment)** — Streaming analytics engine
+Online statistics with Welford's algorithm and Chan's merge formula, event-time windowing, an async pipeline with backpressure, and a bounded deduplication filter.
+`Python` `asyncio` `mypy` `ruff`
+
+
+#### Not on GitHub
 
 #### 🎯 Perimeter Pulse: Context-Aware Stress Monitoring System
 Real-time workplace analytics system processing RTSP CCTV streams for emotion and posture analysis.
@@ -83,6 +93,7 @@ Real-time workplace analytics system processing RTSP CCTV streams for emotion an
 
 `Python` `TensorFlow` `BlazePose` `RTSP` `AWS S3` `NumPy`
 
+
 #### 🔎 Automated Reconnaissance & Vulnerability Assessment Tool
 Automated information-gathering tool combining web scraping and network scanning for security assessments.
 - Integrated Nmap (with NSE scripts), Metasploit auxiliary modules, Hydra, John the Ripper, and Crunch
@@ -92,19 +103,6 @@ Automated information-gathering tool combining web scraping and network scanning
 
 ---
 
-<!-- ### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Joshua-V03&show_icons=true&theme=radical&count_private=true" alt="Joshua's GitHub Stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joshua-V03&layout=compact&theme=radical" alt="Top Languages" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Joshua-V03&theme=radical" alt="GitHub Streak" />
-</p>
-
----
--->
 ### 📚 Publications
 
 Perimeter Pulse: Context-Aware Stress Monitoring Systems Using Surveillance Cameras
