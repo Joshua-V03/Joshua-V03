@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Joshua Abhishek Vemula</h1>
+<h1 align="center">Hi 👋, I'm Joshua A. Vemula</h1>
 <h3 align="center">Software Engineer | Python Developer | IEEE Published Co-Author</h3>
 
 <p align="center">
@@ -76,8 +76,13 @@
 
 #### 📦 On GitHub
 
-**[streamcore](https://github.com/Joshua-V03/streamcore---Coding-Assignment)** — Streaming analytics engine
-Online statistics with Welford's algorithm and Chan's merge formula, event-time windowing, an async pipeline with backpressure, and a bounded deduplication filter.
+**[streamcore](https://github.com/Joshua-V03/streamcore---Coding-Assignment)** — A backend engine for analyzing high-volume, real-time data streams without memory usage growing over time
+- Calculates running statistics (averages, variability, percentiles) on the fly, using efficient methods that stay accurate even on massive, non-stop data
+- Groups incoming events into time windows (e.g. "every 5 minutes") and knows when to finalize a window, even if some data arrives late
+- Processes many events at once while automatically capping how much work happens in parallel, so the system never gets overloaded — and shuts down cleanly if something fails
+- Automatically detects and filters out duplicate events
+- Built with a fully-typed, test-driven approach for reliability
+
 `Python` `asyncio` `mypy` `ruff`
 
 
@@ -108,7 +113,6 @@ Automated information-gathering tool combining web scraping and network scanning
 Perimeter Pulse: Context-Aware Stress Monitoring Systems Using Surveillance Cameras
 IEEE Xplore, Doc ID: 11307121 
 🏆 Best Paper Award at IEEE ICWITE 2025
-Read on IEEE Xplore
 
 ---
 
