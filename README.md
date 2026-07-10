@@ -16,9 +16,9 @@
 
 - 🎓 Computer Engineering (Software Engineering) graduate - JAIN University (2025)
 - 🏆 Best Paper Award Recipient — **IEEE ICWITE 2025**, and co-author of an <a href="https://ieeexplore.ieee.org/document/11307121" target="_blank">IEEE  Xplore publication</a> (Doc ID: 11307121)
-- 🧠 Built a real-time computer-vision analytics pipeline (**Perimeter Pulse**) and an automated security-reconnaissance tool
-- 🔐 Background in Python, backend/REST APIs, and applied security tooling (Nmap, Metasploit, Burp Suite)
-- 🌱 Currently expanding into **Go** and **React** to round out into full-stack development
+- 🧠 Worked on a real-time computer-vision analytics pipeline (**Perimeter Pulse**) and an automated security-reconnaissance tool
+- 🔐 Background in Python, backend/REST APIs, Object Oriented Programming (OOP) and applied security tooling (Nmap, Metasploit, Burp Suite)
+- 🌱 Currently expanding into **Go** and **React** to get started in full-stack development
 - 📫 Reach me at **joshuaabhishekv@gmail.com**
 
 ---
@@ -111,8 +111,7 @@ Automated information-gathering tool combining web scraping and network scanning
 ### 📚 Publications
 
 Perimeter Pulse: Context-Aware Stress Monitoring Systems Using Surveillance Cameras
-IEEE Xplore, Doc ID: 11307121 
-🏆 Best Paper Award at IEEE ICWITE 2025
+IEEE Xplore, Doc ID: 11307121  | 🏆 Best Paper Award for the same at IEEE ICWITE 2025
 
 ---
 
